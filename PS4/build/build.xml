@@ -23,7 +23,7 @@
 	
 		<mkdir dir="project" />
 		<copy todir="project">
-			<fileset dir="D:\Users\Circuit\workspace\PS4">
+			<fileset dir="D:\Users\Circuit\git\PS4">
 				<include name="src/**" />
 			</fileset>
 		</copy>

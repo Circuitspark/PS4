@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Circuit
- *
- */
-package javaFXtutorial;
